@@ -1,0 +1,21 @@
+body
+{
+    background-color:azure;
+
+    color: chocolate;
+}
+
+img{
+    width: 30%;
+}
+
+h1
+{
+    font-family: monospace;
+}
+
+#camera
+{
+    height: 400px;
+    width: 500px;
+}
